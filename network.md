@@ -6,5 +6,5 @@
     <img src="network_img/1.png" alt>
 </p>
 <p style="text-align:center">
-    <em> 00-installer-config.yaml</em>
+    <em>00-installer-config.yaml</em>
 </p>
